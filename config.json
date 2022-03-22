@@ -9,7 +9,9 @@
         "Vanessa Sochat"
     ],
     "time": 1,
-    "reference": "https://www.sona-systems.com/default.aspx",
+    "reference": [
+        "https://www.sona-systems.com/default.aspx"
+    ],
     "description": "Experiment Factory survey",
     "instructions": "Please enter your SONA ID number:"
 }
